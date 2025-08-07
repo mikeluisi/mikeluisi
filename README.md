@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🎹 Mike Luisi - Clases de Piano y Música en Vivo
 
-<!--
-**mikeluisi/mikeluisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido al sitio oficial de Mike Luisi!  
+Este proyecto es una **landing page personal y profesional** diseñada para promocionar clases de piano, presentaciones musicales y redes de contacto del músico Mike Luisi.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Sitio Web
+
+👉 [Ver sitio publicado](https://mikeluisi.github.io/mikeluisi/)
+
+---
+
+## 📸 Descripción
+
+- Profesor de piano con más de 20 años de experiencia.
+- Clases personalizadas para todos los niveles.
+- Repertorio: jazz, tango, rock y más.
+- Actuaciones en vivo para eventos y festivales.
+
+---
+
+## 📁 Estructura del Proyecto
+
